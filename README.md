@@ -1,8 +1,6 @@
 # Google-Lists_to_Apple-Guides
 Python script to clean Google Lists copy/paste and generate Apple Maps search links. Works alongside an Apple Shortcut for quick transfer of saved locations.
 
-This repository contains a Python script and an Apple Shortcut that work together to transfer places saved in **Google Maps** to **Apple Maps** quickly and efficiently.
-
 ## 📌 Overview
 If you have a list of places saved in **Google Maps** and want to transfer them to **Apple Maps**, this tool will automate the process. Instead of manually searching for each location, this script:
 1. **Extracts** the places from a copied Google Maps list, not Takeout or JSON data.
